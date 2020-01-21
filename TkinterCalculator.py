@@ -8,7 +8,7 @@ root = tk.Tk()
 root.title("Simplified Calculator using Python/Tkinter")
 root.iconbitmap('award.ico')
 
-# This canvas provides some sort of colored background on top of the roof window, it's a simple addition for some asthetics,
+# This canvas provides some sort of colored background on top of the root window, it's a simple addition for some asthetics,
 # Although usually you'll use a frame with this to make it look better
 
 canvas = Canvas(root, height=600, width=600, bg="#6441a5")
