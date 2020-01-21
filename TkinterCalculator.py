@@ -166,5 +166,3 @@ button_clear.grid(row=4, column=1, columnspan=2)
 #Main loop to run the window
 
 root.mainloop()
-
-exit = input("Press any key to quit the applications")
